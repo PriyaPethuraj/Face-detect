@@ -1,1 +1,1 @@
-# Face-detect
+# PRO-C106-Teacher-Boilerplate
